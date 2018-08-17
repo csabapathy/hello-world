@@ -10,4 +10,16 @@ y = 5
 
 z = 0
 
-z = x + y
+while z <= 5:
+
+   if z <= 5:
+   
+      print x
+      
+      z = z + 1
+   else:
+      
+      print y
+      
+      z = z + 1
+      
